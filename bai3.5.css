@@ -1,0 +1,26 @@
+.all {
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.trong {
+    height: 80%;
+    margin: 10px;
+    background-color: antiquewhite;
+    text-align: left;
+    border-radius: 5px;
+}
+.submit {
+    background-color: aqua;
+    color: white;
+    border: none;
+}
+.a, .b, .c, .d {
+    width: 100%;
+    background-color: gray;
+    border: none;
+    margin-left: 5px;
+    border-radius: 5px;
+}

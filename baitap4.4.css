@@ -1,0 +1,117 @@
+.tatca {
+    width: 1140px;
+    height: 800px ;
+    margin:30px auto ;
+    background-color: #f8f8f8;
+}
+.top, .mid, .bot {
+    margin-left: 30px;
+}
+.top {
+    display: block;
+    display: flex;
+}
+.home {
+    text-decoration: none;
+    margin-top: 17px;
+}
+.thanhdan {
+    margin-top: 30px;
+    display: block;   
+    display: flex;
+}
+.Summarya:after {
+    background-color: #339999;
+    content: "";
+    display: block;
+    height: 3px;
+     margin-left: 2px ; 
+     margin-top: 15px;
+    position: relative;
+     width: 50px 
+}
+.myrewards {
+    margin-left: 5px;
+    opacity: 0.5;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.Summaryb {
+    margin-left: 20px;
+}
+.bot {
+    box-shadow: 0 0 20px 1px #ddd;
+    color: #676767;
+    float: left;
+    padding: 54px 54px 22px;
+    width: 970px; 
+    height: 400px;
+    margin-top: 20px ;
+    text-align: center;
+}
+.ngoai {
+    margin-right: 60px;
+}
+.bothaf {
+    display: flex;
+    text-align: center;
+    margin-left: 300px;
+}
+.tren {
+    margin-top: -10px;
+}
+.bothp h3{
+    font-size: 30px;
+    line-height: 1.65;
+
+}
+.bothp p {
+    line-height: 1.9;
+    margin-top:-30px ;
+
+}
+
+.bothpp {
+    box-shadow: 0 0 20px 2px #ddd;
+    color: #676767;
+    float: left;
+    padding: 54px 54px 22px;
+    width: 60px; 
+    height: 20px;
+    margin-top: 10px ;
+    margin-left: 80px;
+
+  
+}
+.trong {
+    margin-top: -50px;
+}
+.khoido {
+    background-color: red;
+    color: #ddd;
+    border-radius: 5px;
+    width: 150px;
+    height: 60px;
+    margin-left: 110px;
+}
+.khoixanh {
+    background-color: blue;
+    color: #ddd;
+    border-radius: 5px;
+    width: 150px;
+    height: 60px;
+    margin-left: 130px;
+}
+.khoivang {
+    background-color: green;
+    color: #ddd;
+    border-radius: 5px;
+    width: 150px;
+    height: 60px;
+    margin-left: 150px;
+}
+.khoi {
+    display: flex;
+}

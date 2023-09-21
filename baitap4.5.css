@@ -1,0 +1,24 @@
+#tatca {
+    width: 450px;
+    height: 900px;
+    margin-left: 200px;
+   
+}
+.khung {
+    width: 90%;
+    height:90% ;
+    margin: 20px;
+    box-shadow: 0 0 20px 2px #ddd;
+    color: #676767;
+    float: left;
+    padding: 54px 54px 22px;
+  
+}
+.khoidau {
+    height: 350px;
+    margin: 10px;
+}
+.khoimota ,.khoimotb, .khoimotc, .khoimotd {
+    /* display: flex; */
+    display: inline-block;
+}

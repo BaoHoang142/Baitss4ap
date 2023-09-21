@@ -1,0 +1,43 @@
+.tong {
+    background-color: black;
+    color: white;
+    
+    display: flex;
+    align-items: center;/* cùng nằm trên một đường */
+    justify-content: space-between; /* Căn giữa đẩyy 2 bên */
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.amot {
+    margin-right: 70px;
+}
+.ahai {
+    margin-right: 50px ;
+}
+.aba {
+    margin-right: 30px;
+}
+
+.tieude {
+    text-align:center;
+}
+.h3{
+    text-align: center;
+    font-size: 30px;
+}
+.form {
+    width: 300px;
+    margin: 0 auto;
+}
+select {
+    width: 100%;
+}
+input {
+    width: 100%;
+}
+
+    
+
+

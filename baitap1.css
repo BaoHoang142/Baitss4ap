@@ -1,0 +1,12 @@
+body {
+    margin-left: 20px;
+    background-color: rgb(224, 216, 205);
+}
+main {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 13;
+}
+u {
+    color: blue;
+}

@@ -1,0 +1,35 @@
+.tong {
+    background-color: gray;
+    width: 1300px;
+    height: 1900px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.divmot {
+    height: 60px;
+    border: 1px solid black;
+    
+}
+a {
+    text-decoration: none;
+    color:violet ;
+}
+table {
+    margin-top: 40px ;
+    margin-left: 10px;
+    width: 600px;
+    height: 600px;
+    border: 1px solid white ;
+    background-color: white;
+} 
+button {
+    background-color: aqua;
+    color: black;
+}
+.footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 100px;
+    
+}
+
